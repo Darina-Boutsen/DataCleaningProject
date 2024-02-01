@@ -102,8 +102,8 @@ outliers_z_score, cleaned_z_score = find_outliers_z_score(data, feature, log=Tru
 
 
 ## Использованные инструменты и библиотеки
-* numpy (1.20.3)
-* pandas (1.3.4)
+* numpy (1.25.0)
+* pandas (2.0.3)
 
 ## Дополнительные источники:
 * [Нормальное распределение](https://ru.wikipedia.org/wiki/Нормальное_распределение)
